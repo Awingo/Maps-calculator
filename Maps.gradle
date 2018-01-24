@@ -1,0 +1,9 @@
+groovy
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.google.maps:google-maps-services:(insert latest version)'
+    compile 'org.slf4j:slf4j-nop:1.7.25'
+}
